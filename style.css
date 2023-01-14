@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+span{
+    color: rgb(122, 228, 134);
+}
+body{
+    background-image: url(https://images.unsplash.com/photo-1554034483-04fda0d3507b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+    background-size: cover;
+    background-position: no-repeat;
+    object-fit: cover;
+    }
+
+header{
+    background-color: #d1c4e9;
+    padding: 22px 0px 10px 0px;
+}
+
+#logo{
+    width: 40px;
+    margin: -11px 0px 0px 50px;
+}
+
+.navigation{
+    float: right;   
+    
+}
+
+.navigation > a{
+    color: #340e0e;
+    text-decoration: none;
+    margin: 0px 21px 0px 14px;
+    font-size: 18px;
+    font-family: system-ui;
+
+}
+.navigation > a:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+
+}
+
+#welcome{
+    margin: 23% 0% 20% 15%;
+    font-family: cursive;
+    font-size: 25px;
+}
+#welcome > img{
+    padding: 11% 0% 0% 39%;
+    width: 10%;
+}
+
+#profilepic > img{
+    width: 19%;
+    margin: 5% 0px 0px 19%;
+}
+#profilepic > h3{
+    font-family: system-ui;
+    margin: -21px 0% 0% 22%;
+    font-size: 54px;
+    color: black;
+}
+
+#profilepic > hr{
+    width: 40%;
+    position: relative;
+    left: 35%;
+    top: -19px;
+}
+
+#about > h6{
+    margin: -35px 0px 0px -1%;
+    font-size: 20px;
+}
+#about > h6:hover{
+    color: red;
+}
+#about{
+    float: right;
+    margin: -224px 320px 0px 0px;
+    font-family: monospace;
+}
+#about > h3{
+    font-size: 90px
+}
+ #skill > ul{
+    float: right;
+    font-size: 27px;
+    font-family: monospace;
+    margin: 5% 10%;
+ }
+
+
+
+
+
+
