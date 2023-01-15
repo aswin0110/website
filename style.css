@@ -87,7 +87,7 @@ header{
 
 
 .main-head > h3{
-    padding: 8% 0px 0px 23%;
+    padding: 8% 0px 8% 23%;
     float: left;
     font-family:Arial, Helvetica, sans-serif;
     font-size: 55px;
@@ -107,6 +107,26 @@ header{
     font-size: 27px;
     font-family: monospace;
     margin: 5% 10%;
+    
+}
+
+/* Education */
+
+.main-head2 > h3{
+    padding: 30% 0px 30% 23%;
+    float: left;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 55px;
+
+
+}
+
+.content2 > ul{
+    
+    float: right;
+    font-size: 27px;
+    font-family: monospace;
+    margin: 27% 23% 33% 0%;
     
 }
 
@@ -133,7 +153,15 @@ header{
   .main-head > h3:hover:before{
     width:100%;
   } */
-
+.contact{
+    display: grid;
+    grid-template-columns: 164% 87% 40% 50%;
+    align-content: center;
+    align-items: center;
+    justify-content: start;
+    justify-items: stretch;
+    margin: 70% 0px 0px 0px;
+}
 
 
 
