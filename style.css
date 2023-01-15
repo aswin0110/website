@@ -180,4 +180,14 @@ footer {
     width: 20px;
 }
 
-
+.contact-form > .button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 6px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+}
